@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="descriptive_text_margin">24dp</dimen>
+    <dimen name="common_applied_margin">48dp</dimen>
+    <dimen name="descriptive_text_size">20sp</dimen>
+    <dimen name="layout_margin">12dp</dimen>
+    <dimen name="game_text_margin">8dp</dimen>
+    <dimen name="actual_piece_size">18sp</dimen>
+    <dimen name="game_board_width_const">350dp</dimen>
+</resources>

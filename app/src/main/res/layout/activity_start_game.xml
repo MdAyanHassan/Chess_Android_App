@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".StartGameActivity">
+
+    <Button
+        android:id="@+id/start_new_game_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@color/colorAccent"
+        android:text="@string/button_new_game_text"
+        android:textColor="@color/primaryText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/start_new_game_button"
+        android:layout_marginStart="@dimen/descriptive_text_margin"
+        android:layout_marginTop="@dimen/common_applied_margin"
+        android:layout_marginEnd="@dimen/descriptive_text_margin"
+        android:text="@string/message"
+        android:textAlignment="center"
+        android:textColor="@color/primaryText"
+        android:textSize="@dimen/descriptive_text_size"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

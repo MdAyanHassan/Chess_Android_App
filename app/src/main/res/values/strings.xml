@@ -1,0 +1,16 @@
+<resources>
+    <string name="button_new_game_text">New Game</string>
+    <string name="app_name_and_game_name">Chess: A Java Project</string>
+    <string name="message">This is a simple 2 player chess game made in Java. Click on New Game to start a new 2 player chess game.</string>
+    <string name="turn_message_white">White\'s turn</string>
+    <string name="turn_message_black">Black\'s turn</string>
+    <string name="piece_message">Piece selected</string>
+    <string name="initial_empty_text"> </string>
+    <string name="white_wins_message">White wins!</string>
+    <string name="black_wins_message">Black wins!</string>
+    <string name="draw_game_message">Stalemate. It is a draw</string>
+    <string name="invalid_move">Invalid Move!</string>
+    <string name="king_invalid">Invalid Move! King in check</string>
+    <string name="illegal_piece">That\'s not your piece</string>
+
+</resources>

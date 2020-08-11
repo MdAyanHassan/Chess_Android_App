@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_new_game_text">नया खेल</string>
+    <string name="app_name_and_game_name">शतरंज: एक जावा प्रोजेक्ट</string>
+    <string name="message">यह जावा में बना एक सरल 2 खिलाड़ी शतरंज का खेल है। एक नया 2 खिलाड़ी शतरंज का खेल शुरू करने के लिए नए गेम पर क्लिक करें।</string>
+    <string name="turn_message_white">सफेद की बारी</string>
+    <string name="turn_message_black">काले की बारी</string>
+    <string name="piece_message">टुकड़ा चयनित</string>
+    <string name="initial_empty_text"> </string>
+    <string name="white_wins_message">सफेद जीतता है</string>
+    <string name="black_wins_message">काला जीतता है</string>
+    <string name="draw_game_message">गतिरोध। यह एक ड्रा है</string>
+    <string name="invalid_move">अमान्य चाल!</string>
+    <string name="king_invalid">अमान्य कदम! राजा खतरे में है</string>
+    <string name="illegal_piece">" वह तुम्हारा टुकड़ा नहीं है"</string>
+</resources>

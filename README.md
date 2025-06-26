@@ -17,7 +17,7 @@
 ## ⚡ Quick Setup  
 1. **Clone the repo:**  
    ```bash  
-   git clone https://github.com/yourusername/chess-app.git  
+   git clone https://github.com/MdAyanHassan/Chess_Android_App.git  
    ```
 2. **Build & Run:**
    - **Via Android Studio:** Open the project, sync Gradle, and click "Run"
